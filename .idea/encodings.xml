@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gicp-microservice-bpm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gicp-microservice-bpm/gicp-microservice-bpm-iservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gicp-microservice-bpm/gicp-microservice-bpm-iservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gicp-microservice-bpm/gicp-microservice-bpm-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gicp-microservice-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gicp-microservice-iservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gicp-microservice-iservice/gicp-microservice-iservice-md" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gicp-microservice-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gicp-microservice-web" charset="UTF-8" />
+  </component>
+</project>

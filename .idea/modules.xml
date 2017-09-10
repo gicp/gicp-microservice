@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gicp-microservice.iml" filepath="$PROJECT_DIR$/gicp-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gicp-microservice-bpm/gicp-microservice-bpm.iml" filepath="$PROJECT_DIR$/gicp-microservice-bpm/gicp-microservice-bpm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gicp-microservice-bpm/gicp-microservice-bpm-iservice/gicp-microservice-bpm-iservice.iml" filepath="$PROJECT_DIR$/gicp-microservice-bpm/gicp-microservice-bpm-iservice/gicp-microservice-bpm-iservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gicp-microservice-bpm/gicp-microservice-bpm-service/gicp-microservice-bpm-service.iml" filepath="$PROJECT_DIR$/gicp-microservice-bpm/gicp-microservice-bpm-service/gicp-microservice-bpm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gicp-microservice-common/gicp-microservice-common.iml" filepath="$PROJECT_DIR$/gicp-microservice-common/gicp-microservice-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gicp-microservice-iservice/gicp-microservice-iservice.iml" filepath="$PROJECT_DIR$/gicp-microservice-iservice/gicp-microservice-iservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gicp-microservice-iservice/gicp-microservice-iservice-md/gicp-microservice-iservice-md.iml" filepath="$PROJECT_DIR$/gicp-microservice-iservice/gicp-microservice-iservice-md/gicp-microservice-iservice-md.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gicp-microservice-service/gicp-microservice-service.iml" filepath="$PROJECT_DIR$/gicp-microservice-service/gicp-microservice-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gicp-microservice-web/gicp-microservice-web.iml" filepath="$PROJECT_DIR$/gicp-microservice-web/gicp-microservice-web.iml" />
+    </modules>
+  </component>
+</project>

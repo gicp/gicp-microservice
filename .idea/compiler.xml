@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gicp-microservice-bpm-iservice" />
+        <module name="gicp-microservice-bpm-service" />
+        <module name="gicp-microservice-common" />
+        <module name="gicp-microservice-iservice-md" />
+        <module name="gicp-microservice-service" />
+        <module name="gicp-microservice-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gicp-microservice" target="1.5" />
+      <module name="gicp-microservice-bpm" target="1.5" />
+      <module name="gicp-microservice-bpm-iservice" target="1.5" />
+      <module name="gicp-microservice-bpm-service" target="1.5" />
+      <module name="gicp-microservice-common" target="1.5" />
+      <module name="gicp-microservice-iservice" target="1.5" />
+      <module name="gicp-microservice-iservice-md" target="1.5" />
+      <module name="gicp-microservice-service" target="1.5" />
+      <module name="gicp-microservice-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
